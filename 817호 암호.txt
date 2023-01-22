@@ -1,0 +1,19 @@
+도어락 비밀번호: 	7391
+
+컴퓨터 아이디:	 deu1234
+컴퓨터 비밀번호:	 a1234
+
+컴퓨터 메모장 암호: 	583a@b1414
+
+	public void actionPerformed(ActionEvent arg0) {
+							Thread thread = new Thread(new Runnable(){
+					    		public void run() {
+					    				try{
+					    					Thread.sleep(10000);
+					    					
+					    				
+					    				}catch(InterruptedException e){
+					    				}
+					    		}
+					    	});
+					    	thread.start();			

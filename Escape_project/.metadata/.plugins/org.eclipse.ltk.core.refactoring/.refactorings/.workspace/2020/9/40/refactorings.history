@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Java 프로젝트 &apos;Room_escape&apos;의 이름을 &apos;Escape_Room&apos;(으)로 바꿉니다.&#x0D;&#x0A;- 원래 요소: &apos;Room_escape&apos;&#x0D;&#x0A;- 이름을 바꾼 요소: &apos;Room_escape&apos;&#x0D;&#x0A;- 리팩토링된 요소에 대한 참조 갱신" description="&apos;Room_escape&apos; Java 프로젝트의 이름을 바꿉니다." flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Room_escape" name="Escape_Room" references="true" stamp="1601186098758" version="1.0"/>
+</session>
